@@ -1,6 +1,6 @@
 # Tic_Tac_Toe
 ## 專案介紹
-本專案使用 Java 撰寫，透過「數字井字棋遊戲」孰悉 java 語法及物件導向觀念。
+本專案使用 Java 程式語言設計「數字井字棋遊戲」，藉此孰悉 Java 語法及物件導向觀念。
 
 ## 專案技術
 Eclipse IDE for Java

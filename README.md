@@ -3,7 +3,7 @@
 本專案使用 Java 程式語言設計「數字井字棋遊戲」，藉此孰悉 Java 語法及物件導向觀念。
 
 ## 專案技術
-Eclipse IDE for Java
+Eclipse IDE for Java 2022-03
 
 ## 資料夾說明
 * bin - Eclipse IDE 編譯代碼所生成之 .class 檔案放置處

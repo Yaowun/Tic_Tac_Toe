@@ -7,6 +7,7 @@ Eclipse IDE for Java 2022-03
 
 ## 資料夾說明
 * bin - Eclipse IDE 編譯代碼所生成之 .class 檔案放置處
+* fig - 圖片放置處
 * src - java 原始碼放置處
 
 ## 遊戲規則

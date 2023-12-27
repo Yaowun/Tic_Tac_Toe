@@ -15,3 +15,5 @@ Eclipse IDE for Java 2022-03
 
 ## 成果
 ![Tic Tac Toe](./fig/screenshot.png)
+
+https://github.com/Yaowun/Tic_Tac_Toe/assets/90306375/78160bc0-49e0-4b4f-bf34-4fa96305e1be

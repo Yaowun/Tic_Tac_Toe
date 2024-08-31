@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\SideProject\Tic_Tac_Toe\Tic_Tac_Toe.jar</jar>
+  <outfile>D:\SideProject\Tic_Tac_Toe\Tic_Tac_Toe.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader</mainClass>
+    <cp>.</cp>
+  </classPath>
+  <jre>
+    <path>C:\Program Files\Java\jdk-22</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>22.0.2</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
